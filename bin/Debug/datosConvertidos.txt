@@ -1,0 +1,5 @@
+{"name":"Andres Torres","DPI":12345678901234,"datebirth":"1979-06-12","address":"456 Pine St, Santiago"}
+{"name":"Camila Rodriguez","DPI":34567890123456,"datebirth":"1985-11-13","address":"789 Oak Rd, Buenos Aires"}
+{"name":"Javier Fernandez","DPI":56789012345678,"datebirth":"1979-01-29","address":"456 Pine St, Buenos Aires"}
+{"name":"Sara Ramirez","DPI":78901234567890,"datebirth":"1974-06-16","address":"789 Oak Rd, Buenos Aires"}
+{"name":"Valeria Torres","DPI":90123456789012,"datebirth":"1989-08-11","address":"456 Pine St, Santiago"}

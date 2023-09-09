@@ -1,0 +1,33 @@
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\bin\Debug\Laboratorio_ED2_1.exe.config
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\bin\Debug\Laboratorio_ED2_1.exe
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\bin\Debug\Laboratorio_ED2_1.pdb
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\bin\Debug\Newtonsoft.Json.dll
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\bin\Debug\Newtonsoft.Json.xml
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.AssemblyReference.cache
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.SuggestedBindingRedirects.cache
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.CoreCompileInputs.cache
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.CopyComplete
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.exe
+E:\Carlos\source\repos\Estructura de Datos I\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.pdb
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\bin\Debug\Laboratorio_ED2_1.exe.config
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\bin\Debug\Laboratorio_ED2_1.exe
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\bin\Debug\Laboratorio_ED2_1.pdb
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\bin\Debug\Newtonsoft.Json.dll
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\bin\Debug\Newtonsoft.Json.xml
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.AssemblyReference.cache
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.SuggestedBindingRedirects.cache
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.CoreCompileInputs.cache
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.CopyComplete
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.exe
+D:\Descargas\Laboratorio_ED2_1\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.pdb
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\bin\Debug\Laboratorio_ED2_1.exe.config
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\bin\Debug\Laboratorio_ED2_1.exe
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\bin\Debug\Laboratorio_ED2_1.pdb
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.AssemblyReference.cache
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.csproj.CopyComplete
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.exe
+C:\Users\Diego\OneDrive\Documentos\Diego\Universidad\5. Cuarto Ciclo\Estructuras II\Laboratorio_ED2_1\obj\Debug\Laboratorio_ED2_1.pdb
