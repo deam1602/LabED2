@@ -13,6 +13,7 @@ namespace Laboratorio_ED2_1
         public long DPI { get; set; }
         public string datebirth { get; set; }
         public string address { get; set; }
+        public string[] companies { get; set; }
         public int CompareTo(Persona other)
         {
             if (other == null)

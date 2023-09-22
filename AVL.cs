@@ -17,8 +17,9 @@ namespace Laboratorio_ED2_1
 
         public void Add(T value)//metodo para agregar un nuevo valor al arbol
         {
-            Insert(value);//llama el metodo de insercion
+            Insert(value);//llamada al metodo de insercion
         }
+
         public int ObtenerFE(Nodo<T> n)//metodo para obtener factor de equilibrio de un nodo
         {
 
@@ -120,7 +121,7 @@ namespace Laboratorio_ED2_1
                 }
             }
         }
-        public Nodo<T> InsertarAVL(Nodo<T> nodo, Nodo<T> tempo) //Se inserta el el valor en el arbol y se verifico si está ordenado
+        public Nodo<T> InsertarAVL(Nodo<T> nodo, Nodo<T> tempo) //Realiza incerción y verifica si está ordenado
         {
             try
             {
@@ -212,9 +213,9 @@ namespace Laboratorio_ED2_1
         {
             try
             {
-                Nodo<T> nuevo = CrearNodoAVL(value);//se crea el nodo con el valor a insertar
+                Nodo<T> nuevo = CrearNodoAVL(value); //se crea el nodo con el valor a insertar
 
-                if (Raiz.elvalor == null)//si la raiz esta vacia
+                if (Raiz.elvalor == null) //si la raiz esta vacia
                 {
                     Raiz = nuevo;  //el nodo se convierte en la raiz
                 }
