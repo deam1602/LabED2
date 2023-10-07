@@ -21,7 +21,7 @@ namespace Laboratorio_ED2_1
                 Console.WriteLine("Al momento de ingresar las personas en el archivo se debe seguir el siguiente formato: \n Operación (INSERT, PATCH, DELETE); {'variable':'valor'}\n" +
                     "No agregar más de una persona con el mismo DPI, ya que no puede repetirse.\n Para asegurar el correcto funcionamiento, al usar la operación INSERT se deben llenar todos los parámetros" +
                     "\n Al usar la operación DELETE, solo es necesario el nombre y principalmente el DPI.\n");
-                Console.WriteLine("¿Qué desea hacer? \n 1. CARGAR EL ARBOL \n 2. BUSCAR PERSONA \n 3.MOSTRAR COMPAÑIAS CIFRADAS \n 4.MOSTRAR COMPAÑIAS DESCIFRADAS\n");
+                Console.WriteLine("¿Qué desea hacer? \n 1. CARGAR EL ARBOL \n 2. BUSCAR PERSONA \n 3.MOSTRAR COMPAÑIAS CIFRADAS \n 4.MOSTRAR COMPAÑIAS COMPRIMIDAS\n");
                 string opcion = Console.ReadLine().Trim();
                 while (opcion != "0")
                 {
@@ -29,22 +29,22 @@ namespace Laboratorio_ED2_1
                     {
                         case "1":
                             Operations.leerArchivo();
-                            Console.WriteLine("¿Qué desea hacer? \n 1. CARGAR EL ARBOL \n 2. BUSCAR PERSONA \n 3.MOSTRAR COMPAÑIAS CIFRADAS \n 4.MOSTRAR COMPAÑIAS DESCIFRADAS\n");
+                            Console.WriteLine("¿Qué desea hacer? \n 1. CARGAR EL ARBOL \n 2. BUSCAR PERSONA \n 3.MOSTRAR COMPAÑIAS COMPRIMIDAS \n 4.MOSTRAR COMPAÑIAS DESCOMPRIMIDAS\n");
                             opcion = Console.ReadLine().Trim();
                             break;
                         case "2":
                             Busqueda();
-                            Console.WriteLine("¿Qué desea hacer? \n 1. CARGAR EL ARBOL \n 2. BUSCAR PERSONA \n 3.MOSTRAR COMPAÑIAS CIFRADAS \n 4.MOSTRAR COMPAÑIAS DESCIFRADAS\n");
+                            Console.WriteLine("¿Qué desea hacer? \n 1. CARGAR EL ARBOL \n 2. BUSCAR PERSONA \n 3.MOSTRAR COMPAÑIAS COMPRIMIDAS \n 4.MOSTRAR COMPAÑIAS DESCOMPRIMIDAS\n");
                             opcion = Console.ReadLine().Trim();
                             break;
                         case "3":
                             BusquedaCompresion();
-                            Console.WriteLine("¿Qué desea hacer? \n 1. CARGAR EL ARBOL \n 2. BUSCAR PERSONA \n 3.MOSTRAR COMPAÑIAS CIFRADAS \n 4.MOSTRAR COMPAÑIAS DESCIFRADAS\n");
+                            Console.WriteLine("¿Qué desea hacer? \n 1. CARGAR EL ARBOL \n 2. BUSCAR PERSONA \n 3.MOSTRAR COMPAÑIAS COMPRIMIDAS \n 4.MOSTRAR COMPAÑIAS DESCOMPRIMIDAS\n");
                             opcion = Console.ReadLine().Trim();
                             break;
                         case "4":
                             BusquedaDescompresion();
-                            Console.WriteLine("¿Qué desea hacer? \n 1. CARGAR EL ARBOL \n 2. BUSCAR PERSONA \n 3.MOSTRAR COMPAÑIAS CIFRADAS \n 4.MOSTRAR COMPAÑIAS DESCIFRADAS\n");
+                            Console.WriteLine("¿Qué desea hacer? \n 1. CARGAR EL ARBOL \n 2. BUSCAR PERSONA \n 3.MOSTRAR COMPAÑIAS COMPRIMIDAS \n 4.MOSTRAR COMPAÑIAS DESCOMPRIMIDAS\n");
                             opcion = Console.ReadLine().Trim();
                             break;
                         default:

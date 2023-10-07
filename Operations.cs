@@ -97,8 +97,6 @@ namespace Laboratorio_ED2_1
                 siguiente = "";
 
             }
-
-            // defult variable 
             puntero = 0;
             siguiente = "";
             dic.Clear();
@@ -159,10 +157,10 @@ namespace Laboratorio_ED2_1
                 {
                     string nombre = person.name;
                     string dpi = Convert.ToString(person.DPI);
-                    string compresion = string.Join(" ", person.companies);
-                    string comprimidos = compression(compresion);
-                    Lcomprimidos.Add($"DPI:{dpi} \n Nombre: {nombre} \n Compañias cifradas:\n {comprimidos}");
-                    Ldescomprimidos.Add($"DPI:{dpi} \n Nombre: {nombre} \n Compañias cifradas:\n {decompression(comprimidos)}");
+                    string descomprimidos = string.Join(" ", person.companies);
+                    string comprimidos = compression(descomprimidos);
+                    Lcomprimidos.Add($"DPI:{dpi} \n Nombre: {nombre} \n Compañias comprimidas:\n {comprimidos}\n");
+                    Ldescomprimidos.Add($"DPI:{dpi} \n Nombre: {nombre} \n Compañias descomprimidas:\n {descomprimidos}\n");
                     arbol.Add(person);
                     //Console.WriteLine("Insert hecho");
                 }
